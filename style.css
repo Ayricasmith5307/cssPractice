@@ -1,20 +1,20 @@
 body{
-    background-color: #EEE;
-    font-family: Helvetica, Arial, sans-serif
+    background-color: #eeeeee;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 a{
-    text-decoration: none
-    color: red;
+    text-decoration: none;
+    color:  red;
 }
 
 hl, h2, h3 {
     margin: 0;
 }
 
-#container {
+#container{
     background-color: white;
-    width: 800px
+    width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -26,16 +26,16 @@ hl, h2, h3 {
     padding: 10px;
 }
 
-#content{
+#content {
     padding: 10px;
 }
 
-#nav{
+#nav {
     width: 180px;
     float: left;
 }
 
-#nav ul{
+#nav ul {
 list-style-type: none;
 padding: 0;
 }
